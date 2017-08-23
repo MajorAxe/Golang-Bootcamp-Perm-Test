@@ -35,3 +35,8 @@
         "TRY"
         "USD"
         "ZAR"
+
+Пример использования:
+
+> ./convertCurrency --from="USD" --to="RUB" --value=500
+Converted 500 USD to 29514.909523404975 RUB
